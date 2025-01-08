@@ -481,3 +481,552 @@ Jan/07/2025 11:19:26 script,warning SAIDA TIM UP
 Jan/07/2025 11:59:27 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
 Jan/07/2025 12:02:54 script,error SAIDA CLARO DOWN
 Jan/07/2025 12:07:34 script,warning SAIDA CLARO UP
+Jan/07/2025 13:07:48 script,error SAIDA TIM DOWN
+Jan/07/2025 13:07:55 script,warning SAIDA TIM UP
+Jan/07/2025 14:59:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/07/2025 15:04:59 script,error SAIDA TIM DOWN
+Jan/07/2025 15:05:06 script,warning SAIDA TIM UP
+Jan/07/2025 15:35:39 script,error SAIDA TIM DOWN
+Jan/07/2025 15:35:46 script,warning SAIDA TIM UP
+Jan/07/2025 15:41:46 script,error SAIDA CLARO DOWN
+Jan/07/2025 15:46:56 script,warning SAIDA CLARO UP
+Jan/07/2025 15:59:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/07/2025 17:19:30 script,error SAIDA TIM DOWN
+Jan/07/2025 17:20:39 script,warning SAIDA TIM UP
+Jan/07/2025 17:21:20 script,error SAIDA TIM DOWN
+Jan/07/2025 17:22:39 script,warning SAIDA TIM UP
+Jan/07/2025 17:24:00 script,error SAIDA TIM DOWN
+Jan/07/2025 17:24:07 script,warning SAIDA TIM UP
+Jan/07/2025 17:59:27 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/07/2025 18:18:40 script,error SAIDA TIM DOWN
+Jan/07/2025 18:18:47 script,warning SAIDA TIM UP
+Jan/07/2025 18:40:21 script,error SAIDA TIM DOWN
+Jan/07/2025 18:40:28 script,warning SAIDA TIM UP
+Jan/07/2025 18:46:21 script,error SAIDA TIM DOWN
+Jan/07/2025 18:46:28 script,warning SAIDA TIM UP
+Jan/07/2025 18:48:51 script,error SAIDA TIM DOWN
+Jan/07/2025 18:48:59 script,warning SAIDA TIM UP
+Jan/07/2025 18:53:21 script,error SAIDA TIM DOWN
+Jan/07/2025 18:53:29 script,warning SAIDA TIM UP
+Jan/07/2025 18:55:41 script,error SAIDA TIM DOWN
+Jan/07/2025 18:55:48 script,warning SAIDA TIM UP
+Jan/07/2025 18:59:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/07/2025 19:04:11 script,error SAIDA TIM DOWN
+Jan/07/2025 19:04:18 script,warning SAIDA TIM UP
+Jan/07/2025 19:13:21 script,error SAIDA TIM DOWN
+Jan/07/2025 19:13:28 script,warning SAIDA TIM UP
+Jan/07/2025 19:16:41 script,error SAIDA TIM DOWN
+Jan/07/2025 19:16:48 script,warning SAIDA TIM UP
+Jan/07/2025 19:17:11 script,error SAIDA TIM DOWN
+Jan/07/2025 19:17:18 script,warning SAIDA TIM UP
+Jan/07/2025 19:31:48 script,error SAIDA CLARO DOWN
+Jan/07/2025 19:42:41 script,error SAIDA TIM DOWN
+Jan/07/2025 19:42:48 script,warning SAIDA TIM UP
+Jan/07/2025 19:43:51 script,error SAIDA TIM DOWN
+Jan/07/2025 19:44:27 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/07/2025 19:45:08 script,warning SAIDA CLARO UP
+Jan/07/2025 19:53:28 script,warning SAIDA TIM UP
+Jan/07/2025 19:59:27 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/07/2025 20:17:12 script,error SAIDA TIM DOWN
+Jan/07/2025 20:17:20 script,warning SAIDA TIM UP
+Jan/07/2025 20:18:42 script,error SAIDA TIM DOWN
+Jan/07/2025 20:18:50 script,warning SAIDA TIM UP
+Jan/07/2025 20:19:12 script,error SAIDA TIM DOWN
+Jan/07/2025 20:19:19 script,warning SAIDA TIM UP
+Jan/07/2025 20:36:12 script,error SAIDA TIM DOWN
+Jan/07/2025 20:36:19 script,warning SAIDA TIM UP
+Jan/07/2025 20:37:02 script,error SAIDA TIM DOWN
+Jan/07/2025 20:37:20 script,warning SAIDA TIM UP
+Jan/07/2025 20:37:32 script,error SAIDA TIM DOWN
+Jan/07/2025 20:37:39 script,warning SAIDA TIM UP
+Jan/07/2025 20:38:52 script,error SAIDA TIM DOWN
+Jan/07/2025 20:38:59 script,warning SAIDA TIM UP
+Jan/07/2025 20:42:22 script,error SAIDA TIM DOWN
+Jan/07/2025 20:42:29 script,warning SAIDA TIM UP
+Jan/07/2025 20:45:32 script,error SAIDA TIM DOWN
+Jan/07/2025 20:45:39 script,warning SAIDA TIM UP
+Jan/07/2025 20:45:52 script,error SAIDA TIM DOWN
+Jan/07/2025 20:46:01 script,warning SAIDA TIM UP
+Jan/07/2025 20:46:42 script,error SAIDA TIM DOWN
+Jan/07/2025 20:46:50 script,warning SAIDA TIM UP
+Jan/07/2025 20:52:32 script,error SAIDA TIM DOWN
+Jan/07/2025 20:52:39 script,warning SAIDA TIM UP
+Jan/07/2025 21:05:52 script,error SAIDA TIM DOWN
+Jan/07/2025 21:06:01 script,warning SAIDA TIM UP
+Jan/07/2025 21:06:22 script,error SAIDA TIM DOWN
+Jan/07/2025 21:06:39 script,warning SAIDA TIM UP
+Jan/07/2025 21:06:52 script,error SAIDA TIM DOWN
+Jan/07/2025 21:06:59 script,warning SAIDA TIM UP
+Jan/07/2025 21:07:42 script,error SAIDA TIM DOWN
+Jan/07/2025 21:07:50 script,warning SAIDA TIM UP
+Jan/07/2025 21:08:02 script,error SAIDA TIM DOWN
+Jan/07/2025 21:59:20 script,warning SAIDA TIM UP
+Jan/07/2025 22:00:43 script,error SAIDA TIM DOWN
+Jan/07/2025 22:00:51 script,warning SAIDA TIM UP
+Jan/07/2025 22:01:53 script,error SAIDA TIM DOWN
+Jan/07/2025 22:02:00 script,warning SAIDA TIM UP
+Jan/07/2025 22:02:43 script,error SAIDA TIM DOWN
+Jan/07/2025 22:02:50 script,warning SAIDA TIM UP
+Jan/07/2025 22:03:33 script,error SAIDA TIM DOWN
+Jan/07/2025 22:18:22 script,warning SAIDA TIM UP
+Jan/07/2025 22:18:33 script,error SAIDA TIM DOWN
+Jan/07/2025 22:18:40 script,warning SAIDA TIM UP
+Jan/07/2025 22:19:53 script,error SAIDA TIM DOWN
+Jan/07/2025 22:20:00 script,warning SAIDA TIM UP
+Jan/07/2025 22:20:53 script,error SAIDA TIM DOWN
+Jan/07/2025 22:21:00 script,warning SAIDA TIM UP
+Jan/07/2025 22:21:13 script,error SAIDA TIM DOWN
+Jan/07/2025 22:21:20 script,warning SAIDA TIM UP
+Jan/07/2025 22:22:03 script,error SAIDA TIM DOWN
+Jan/07/2025 22:22:10 script,warning SAIDA TIM UP
+Jan/07/2025 22:23:03 script,error SAIDA TIM DOWN
+Jan/07/2025 22:23:10 script,warning SAIDA TIM UP
+Jan/07/2025 22:23:23 script,error SAIDA TIM DOWN
+Jan/07/2025 22:23:32 script,warning SAIDA TIM UP
+Jan/07/2025 22:23:53 script,error SAIDA TIM DOWN
+Jan/07/2025 22:34:20 script,warning SAIDA TIM UP
+Jan/07/2025 22:35:23 script,error SAIDA TIM DOWN
+Jan/07/2025 22:35:30 script,warning SAIDA TIM UP
+Jan/07/2025 22:36:23 script,error SAIDA TIM DOWN
+Jan/07/2025 22:56:20 script,warning SAIDA TIM UP
+Jan/07/2025 22:57:03 script,error SAIDA TIM DOWN
+Jan/07/2025 22:57:10 script,warning SAIDA TIM UP
+Jan/07/2025 22:58:13 script,error SAIDA TIM DOWN
+Jan/07/2025 22:58:20 script,warning SAIDA TIM UP
+Jan/07/2025 22:58:43 script,error SAIDA TIM DOWN
+Jan/07/2025 22:58:50 script,warning SAIDA TIM UP
+Jan/07/2025 22:59:13 script,error SAIDA TIM DOWN
+Jan/07/2025 22:59:21 script,warning SAIDA TIM UP
+Jan/07/2025 23:00:13 script,error SAIDA TIM DOWN
+Jan/07/2025 23:01:30 script,warning SAIDA TIM UP
+Jan/07/2025 23:02:13 script,error SAIDA TIM DOWN
+Jan/07/2025 23:02:23 script,warning SAIDA TIM UP
+Jan/07/2025 23:03:54 script,error SAIDA TIM DOWN
+Jan/07/2025 23:04:22 script,warning SAIDA TIM UP
+Jan/07/2025 23:04:34 script,error SAIDA TIM DOWN
+Jan/07/2025 23:04:52 script,warning SAIDA TIM UP
+Jan/07/2025 23:05:04 script,error SAIDA TIM DOWN
+Jan/07/2025 23:16:22 script,warning SAIDA TIM UP
+Jan/07/2025 23:16:54 script,error SAIDA TIM DOWN
+Jan/07/2025 23:17:01 script,warning SAIDA TIM UP
+Jan/07/2025 23:18:04 script,error SAIDA TIM DOWN
+Jan/07/2025 23:18:11 script,warning SAIDA TIM UP
+Jan/07/2025 23:18:44 script,error SAIDA TIM DOWN
+Jan/07/2025 23:19:01 script,warning SAIDA TIM UP
+Jan/07/2025 23:19:14 script,error SAIDA TIM DOWN
+Jan/07/2025 23:19:31 script,warning SAIDA TIM UP
+Jan/07/2025 23:19:44 script,error SAIDA TIM DOWN
+Jan/07/2025 23:21:41 script,warning SAIDA TIM UP
+Jan/07/2025 23:23:04 script,error SAIDA TIM DOWN
+Jan/07/2025 23:26:31 script,warning SAIDA TIM UP
+Jan/07/2025 23:26:44 script,error SAIDA TIM DOWN
+Jan/07/2025 23:27:21 script,warning SAIDA TIM UP
+Jan/07/2025 23:27:34 script,error SAIDA TIM DOWN
+Jan/07/2025 23:27:52 script,warning SAIDA TIM UP
+Jan/07/2025 23:28:04 script,error SAIDA TIM DOWN
+Jan/08/2025 00:00:51 script,warning SAIDA TIM UP
+Jan/08/2025 00:01:54 script,error SAIDA TIM DOWN
+Jan/08/2025 00:02:01 script,warning SAIDA TIM UP
+Jan/08/2025 00:03:04 script,error SAIDA TIM DOWN
+Jan/08/2025 00:17:32 script,warning SAIDA TIM UP
+Jan/08/2025 00:18:24 script,error SAIDA TIM DOWN
+Jan/08/2025 00:18:31 script,warning SAIDA TIM UP
+Jan/08/2025 00:19:54 script,error SAIDA TIM DOWN
+Jan/08/2025 00:20:02 script,warning SAIDA TIM UP
+Jan/08/2025 00:20:24 script,error SAIDA TIM DOWN
+Jan/08/2025 00:20:43 script,warning SAIDA TIM UP
+Jan/08/2025 00:21:04 script,error SAIDA TIM DOWN
+Jan/08/2025 00:40:42 script,warning SAIDA TIM UP
+Jan/08/2025 00:41:04 script,error SAIDA TIM DOWN
+Jan/08/2025 00:41:11 script,warning SAIDA TIM UP
+Jan/08/2025 00:42:44 script,error SAIDA TIM DOWN
+Jan/08/2025 00:57:22 script,warning SAIDA TIM UP
+Jan/08/2025 00:57:34 script,error SAIDA TIM DOWN
+Jan/08/2025 00:57:41 script,warning SAIDA TIM UP
+Jan/08/2025 00:58:34 script,error SAIDA TIM DOWN
+Jan/08/2025 00:58:51 script,warning SAIDA TIM UP
+Jan/08/2025 01:00:44 script,error SAIDA TIM DOWN
+Jan/08/2025 01:17:11 script,warning SAIDA TIM UP
+Jan/08/2025 01:18:44 script,error SAIDA TIM DOWN
+Jan/08/2025 01:19:11 script,warning SAIDA TIM UP
+Jan/08/2025 01:21:14 script,error SAIDA TIM DOWN
+Jan/08/2025 01:21:23 script,warning SAIDA TIM UP
+Jan/08/2025 01:21:34 script,error SAIDA TIM DOWN
+Jan/08/2025 01:21:41 script,warning SAIDA TIM UP
+Jan/08/2025 01:22:34 script,error SAIDA TIM DOWN
+Jan/08/2025 01:22:41 script,warning SAIDA TIM UP
+Jan/08/2025 01:23:14 script,error SAIDA TIM DOWN
+Jan/08/2025 01:27:34 script,warning SAIDA TIM UP
+Jan/08/2025 01:27:45 script,error SAIDA TIM DOWN
+Jan/08/2025 01:41:43 script,warning SAIDA TIM UP
+Jan/08/2025 01:45:05 script,error SAIDA TIM DOWN
+Jan/08/2025 01:45:13 script,warning SAIDA TIM UP
+Jan/08/2025 01:46:15 script,error SAIDA TIM DOWN
+Jan/08/2025 01:46:34 script,warning SAIDA TIM UP
+Jan/08/2025 01:46:45 script,error SAIDA TIM DOWN
+Jan/08/2025 01:46:52 script,warning SAIDA TIM UP
+Jan/08/2025 01:47:05 script,error SAIDA TIM DOWN
+Jan/08/2025 01:47:12 script,warning SAIDA TIM UP
+Jan/08/2025 01:47:45 script,error SAIDA TIM DOWN
+Jan/08/2025 02:03:42 script,warning SAIDA TIM UP
+Jan/08/2025 02:07:45 script,error SAIDA TIM DOWN
+Jan/08/2025 02:20:32 script,warning SAIDA TIM UP
+Jan/08/2025 02:20:55 script,error SAIDA TIM DOWN
+Jan/08/2025 02:21:02 script,warning SAIDA TIM UP
+Jan/08/2025 02:21:35 script,error SAIDA TIM DOWN
+Jan/08/2025 02:22:02 script,warning SAIDA TIM UP
+Jan/08/2025 02:23:45 script,error SAIDA TIM DOWN
+Jan/08/2025 02:23:54 script,warning SAIDA TIM UP
+Jan/08/2025 02:24:05 script,error SAIDA TIM DOWN
+Jan/08/2025 02:26:52 script,warning SAIDA TIM UP
+Jan/08/2025 02:28:25 script,error SAIDA TIM DOWN
+Jan/08/2025 02:29:34 script,warning SAIDA TIM UP
+Jan/08/2025 02:30:15 script,error SAIDA TIM DOWN
+Jan/08/2025 02:30:22 script,warning SAIDA TIM UP
+Jan/08/2025 02:30:55 script,error SAIDA TIM DOWN
+Jan/08/2025 02:31:02 script,warning SAIDA TIM UP
+Jan/08/2025 02:31:15 script,error SAIDA TIM DOWN
+Jan/08/2025 02:31:24 script,warning SAIDA TIM UP
+Jan/08/2025 02:31:35 script,error SAIDA TIM DOWN
+Jan/08/2025 02:41:12 script,warning SAIDA TIM UP
+Jan/08/2025 02:42:25 script,error SAIDA TIM DOWN
+Jan/08/2025 03:02:53 script,warning SAIDA TIM UP
+Jan/08/2025 03:04:26 script,error SAIDA TIM DOWN
+Jan/08/2025 03:13:33 script,warning SAIDA TIM UP
+Jan/08/2025 03:13:56 script,error SAIDA TIM DOWN
+Jan/08/2025 03:20:33 script,warning SAIDA TIM UP
+Jan/08/2025 03:21:36 script,error SAIDA TIM DOWN
+Jan/08/2025 03:32:05 script,warning SAIDA TIM UP
+Jan/08/2025 03:32:16 script,error SAIDA TIM DOWN
+Jan/08/2025 03:32:24 script,warning SAIDA TIM UP
+Jan/08/2025 03:32:36 script,error SAIDA TIM DOWN
+Jan/08/2025 03:32:43 script,warning SAIDA TIM UP
+Jan/08/2025 03:32:56 script,error SAIDA TIM DOWN
+Jan/08/2025 03:40:03 script,warning SAIDA TIM UP
+Jan/08/2025 03:41:16 script,error SAIDA TIM DOWN
+Jan/08/2025 03:41:23 script,warning SAIDA TIM UP
+Jan/08/2025 03:41:46 script,error SAIDA TIM DOWN
+Jan/08/2025 03:41:53 script,warning SAIDA TIM UP
+Jan/08/2025 03:49:36 script,error SAIDA TIM DOWN
+Jan/08/2025 04:00:15 script,warning SAIDA TIM UP
+Jan/08/2025 04:04:06 script,error SAIDA TIM DOWN
+Jan/08/2025 04:04:13 script,warning SAIDA TIM UP
+Jan/08/2025 04:05:06 script,error SAIDA TIM DOWN
+Jan/08/2025 04:06:23 script,warning SAIDA TIM UP
+Jan/08/2025 04:12:06 script,error SAIDA TIM DOWN
+Jan/08/2025 04:12:13 script,warning SAIDA TIM UP
+Jan/08/2025 04:13:06 script,error SAIDA TIM DOWN
+Jan/08/2025 04:24:13 script,warning SAIDA TIM UP
+Jan/08/2025 04:27:47 script,error SAIDA TIM DOWN
+Jan/08/2025 04:29:26 script,warning SAIDA TIM UP
+Jan/08/2025 04:32:27 script,error SAIDA TIM DOWN
+Jan/08/2025 04:34:55 script,warning SAIDA TIM UP
+Jan/08/2025 04:35:47 script,error SAIDA TIM DOWN
+Jan/08/2025 04:35:54 script,warning SAIDA TIM UP
+Jan/08/2025 04:36:47 script,error SAIDA TIM DOWN
+Jan/08/2025 04:37:06 script,warning SAIDA TIM UP
+Jan/08/2025 04:42:07 script,error SAIDA TIM DOWN
+Jan/08/2025 04:42:14 script,warning SAIDA TIM UP
+Jan/08/2025 04:45:27 script,error SAIDA TIM DOWN
+Jan/08/2025 04:45:34 script,warning SAIDA TIM UP
+Jan/08/2025 04:45:57 script,error SAIDA TIM DOWN
+Jan/08/2025 04:46:04 script,warning SAIDA TIM UP
+Jan/08/2025 04:50:27 script,error SAIDA TIM DOWN
+Jan/08/2025 04:50:35 script,warning SAIDA TIM UP
+Jan/08/2025 04:51:07 script,error SAIDA TIM DOWN
+Jan/08/2025 04:51:16 script,warning SAIDA TIM UP
+Jan/08/2025 04:51:37 script,error SAIDA TIM DOWN
+Jan/08/2025 04:51:44 script,warning SAIDA TIM UP
+Jan/08/2025 04:52:07 script,error SAIDA TIM DOWN
+Jan/08/2025 04:52:24 script,warning SAIDA TIM UP
+Jan/08/2025 04:54:07 script,error SAIDA TIM DOWN
+Jan/08/2025 04:54:14 script,warning SAIDA TIM UP
+Jan/08/2025 04:55:17 script,error SAIDA TIM DOWN
+Jan/08/2025 05:11:44 script,warning SAIDA TIM UP
+Jan/08/2025 05:13:17 script,error SAIDA TIM DOWN
+Jan/08/2025 05:13:54 script,warning SAIDA TIM UP
+Jan/08/2025 05:15:57 script,error SAIDA TIM DOWN
+Jan/08/2025 05:16:05 script,warning SAIDA TIM UP
+Jan/08/2025 05:16:27 script,error SAIDA TIM DOWN
+Jan/08/2025 05:16:34 script,warning SAIDA TIM UP
+Jan/08/2025 05:16:57 script,error SAIDA TIM DOWN
+Jan/08/2025 05:17:14 script,warning SAIDA TIM UP
+Jan/08/2025 05:17:27 script,error SAIDA TIM DOWN
+Jan/08/2025 05:17:46 script,warning SAIDA TIM UP
+Jan/08/2025 05:19:47 script,error SAIDA TIM DOWN
+Jan/08/2025 05:19:55 script,warning SAIDA TIM UP
+Jan/08/2025 05:20:37 script,error SAIDA TIM DOWN
+Jan/08/2025 05:20:46 script,warning SAIDA TIM UP
+Jan/08/2025 05:34:57 script,error SAIDA TIM DOWN
+Jan/08/2025 05:35:04 script,warning SAIDA TIM UP
+Jan/08/2025 05:35:17 script,error SAIDA TIM DOWN
+Jan/08/2025 05:35:24 script,warning SAIDA TIM UP
+Jan/08/2025 05:35:47 script,error SAIDA TIM DOWN
+Jan/08/2025 05:35:54 script,warning SAIDA TIM UP
+Jan/08/2025 05:36:07 script,error SAIDA TIM DOWN
+Jan/08/2025 05:41:55 script,warning SAIDA TIM UP
+Jan/08/2025 05:58:17 script,error SAIDA TIM DOWN
+Jan/08/2025 05:58:26 script,warning SAIDA TIM UP
+Jan/08/2025 05:59:57 script,error SAIDA TIM DOWN
+Jan/08/2025 08:22:47 script,warning SAIDA TIM UP
+Jan/08/2025 08:24:28 script,error SAIDA TIM DOWN
+Jan/08/2025 08:24:35 script,warning SAIDA TIM UP
+Jan/08/2025 08:26:38 script,error SAIDA TIM DOWN
+Jan/08/2025 08:26:47 script,warning SAIDA TIM UP
+Jan/08/2025 08:26:58 script,error SAIDA TIM DOWN
+Jan/08/2025 08:27:07 script,warning SAIDA TIM UP
+Jan/08/2025 08:27:18 script,error SAIDA TIM DOWN
+Jan/08/2025 08:27:46 script,warning SAIDA TIM UP
+Jan/08/2025 08:28:48 script,error SAIDA TIM DOWN
+Jan/08/2025 08:28:55 script,warning SAIDA TIM UP
+Jan/08/2025 08:29:18 script,error SAIDA TIM DOWN
+Jan/08/2025 08:29:35 script,warning SAIDA TIM UP
+Jan/08/2025 08:29:58 script,error SAIDA TIM DOWN
+Jan/08/2025 08:44:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 08:49:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 08:54:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 08:55:35 script,warning SAIDA TIM UP
+Jan/08/2025 08:59:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:04:28 script,error SAIDA TIM DOWN
+Jan/08/2025 09:04:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:09:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:11:55 script,warning SAIDA TIM UP
+Jan/08/2025 09:14:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:19:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:20:58 script,error SAIDA TIM DOWN
+Jan/08/2025 09:21:15 script,warning SAIDA TIM UP
+Jan/08/2025 09:24:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:29:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:34:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:35:18 script,error SAIDA TIM DOWN
+Jan/08/2025 09:35:25 script,warning SAIDA TIM UP
+Jan/08/2025 09:39:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:44:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:49:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:54:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 09:59:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:04:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:09:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:14:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:19:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:24:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:29:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:30:15 script,error SAIDA CLARO DOWN
+Jan/08/2025 10:32:25 script,error SAIDA TIM DOWN
+Jan/08/2025 10:33:55 script,warning SAIDA TIM UP
+Jan/08/2025 10:34:15 script,warning SAIDA CLARO UP
+Jan/08/2025 10:34:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:34:35 script,error SAIDA CLARO DOWN
+Jan/08/2025 10:39:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:43:15 script,warning SAIDA CLARO UP
+Jan/08/2025 10:44:08 script,error SAIDA TIM DOWN
+Jan/08/2025 10:44:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:45:35 script,warning SAIDA TIM UP
+Jan/08/2025 10:49:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:53:15 script,error SAIDA CLARO DOWN
+Jan/08/2025 10:54:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:59:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 10:59:28 script,error SAIDA TIM DOWN
+Jan/08/2025 10:59:35 script,warning SAIDA TIM UP
+Jan/08/2025 11:00:08 script,error SAIDA TIM DOWN
+Jan/08/2025 11:00:25 script,warning SAIDA TIM UP
+Jan/08/2025 11:01:18 script,error SAIDA TIM DOWN
+Jan/08/2025 11:01:35 script,warning SAIDA TIM UP
+Jan/08/2025 11:01:58 script,error SAIDA TIM DOWN
+Jan/08/2025 11:03:35 script,warning SAIDA CLARO UP
+Jan/08/2025 11:03:35 script,warning SAIDA TIM UP
+Jan/08/2025 11:03:48 script,error SAIDA TIM DOWN
+Jan/08/2025 11:04:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 11:07:15 script,warning SAIDA TIM UP
+Jan/08/2025 11:09:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 11:14:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 11:19:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 11:21:08 script,error SAIDA TIM DOWN
+Jan/08/2025 11:21:15 script,warning SAIDA TIM UP
+Jan/08/2025 11:23:18 script,error SAIDA TIM DOWN
+Jan/08/2025 11:23:35 script,warning SAIDA TIM UP
+Jan/08/2025 11:24:18 script,error SAIDA TIM DOWN
+Jan/08/2025 11:24:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 11:29:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 11:32:05 script,warning SAIDA TIM UP
+Jan/08/2025 11:33:18 script,error SAIDA TIM DOWN
+Jan/08/2025 11:33:25 script,warning SAIDA TIM UP
+Jan/08/2025 11:34:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 11:39:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 11:44:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 11:49:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 11:54:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 11:59:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:04:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:09:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:12:59 script,error SAIDA TIM DOWN
+Jan/08/2025 12:13:06 script,warning SAIDA TIM UP
+Jan/08/2025 12:14:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:19:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:24:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:29:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:30:08 script,error SAIDA TIM DOWN
+Jan/08/2025 12:30:16 script,warning SAIDA TIM UP
+Jan/08/2025 12:34:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:39:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:44:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:49:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:54:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 12:56:39 script,error SAIDA TIM DOWN
+Jan/08/2025 12:56:56 script,warning SAIDA TIM UP
+Jan/08/2025 12:59:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:04:19 script,error SAIDA TIM DOWN
+Jan/08/2025 13:04:26 script,warning SAIDA TIM UP
+Jan/08/2025 13:04:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:09:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:10:59 script,error SAIDA TIM DOWN
+Jan/08/2025 13:11:06 script,warning SAIDA TIM UP
+Jan/08/2025 13:14:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:18:39 script,error SAIDA TIM DOWN
+Jan/08/2025 13:18:46 script,warning SAIDA TIM UP
+Jan/08/2025 13:19:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:23:29 script,error SAIDA TIM DOWN
+Jan/08/2025 13:23:36 script,warning SAIDA TIM UP
+Jan/08/2025 13:24:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:29:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:33:59 script,error SAIDA TIM DOWN
+Jan/08/2025 13:34:06 script,warning SAIDA TIM UP
+Jan/08/2025 13:34:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:39:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:44:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:49:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:54:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 13:59:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:04:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:07:59 script,error SAIDA TIM DOWN
+Jan/08/2025 14:09:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:14:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:19:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:24:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:29:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:34:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:39:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:44:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:45:56 script,warning SAIDA TIM UP
+Jan/08/2025 14:46:19 script,error SAIDA TIM DOWN
+Jan/08/2025 14:46:36 script,warning SAIDA TIM UP
+Jan/08/2025 14:49:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:54:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:56:09 script,error SAIDA TIM DOWN
+Jan/08/2025 14:59:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 14:59:46 script,warning SAIDA TIM UP
+Jan/08/2025 15:04:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 15:06:49 script,error SAIDA TIM DOWN
+Jan/08/2025 15:09:27 script,warning SAIDA TIM UP
+Jan/08/2025 15:09:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 15:12:29 script,error SAIDA TIM DOWN
+Jan/08/2025 15:12:56 script,warning SAIDA TIM UP
+Jan/08/2025 15:14:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 15:15:19 script,error SAIDA TIM DOWN
+Jan/08/2025 15:15:46 script,warning SAIDA TIM UP
+Jan/08/2025 15:19:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 15:24:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 15:25:39 script,error SAIDA TIM DOWN
+Jan/08/2025 15:25:46 script,warning SAIDA TIM UP
+Jan/08/2025 15:29:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 15:34:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 15:39:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 15:44:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 15:47:49 script,error SAIDA TIM DOWN
+Jan/08/2025 15:48:16 script,warning SAIDA TIM UP
+Jan/08/2025 15:49:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 15:54:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 15:55:16 script,error SAIDA CLARO DOWN
+Jan/08/2025 15:59:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:04:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:06:29 script,error SAIDA TIM DOWN
+Jan/08/2025 16:07:16 script,warning SAIDA CLARO UP
+Jan/08/2025 16:09:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:10:06 script,warning SAIDA TIM UP
+Jan/08/2025 16:12:49 script,error SAIDA TIM DOWN
+Jan/08/2025 16:12:56 script,warning SAIDA TIM UP
+Jan/08/2025 16:14:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:19:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:24:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:29:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:34:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:39:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:44:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:49:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:54:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 16:59:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:04:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:09:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:14:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:19:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:24:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:29:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:34:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:39:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:44:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:49:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:54:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 17:59:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:04:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:09:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:10:30 script,error SAIDA CLARO DOWN
+Jan/08/2025 18:10:37 script,warning SAIDA CLARO UP
+Jan/08/2025 18:10:50 script,error SAIDA CLARO DOWN
+Jan/08/2025 18:10:57 script,warning SAIDA CLARO UP
+Jan/08/2025 18:11:10 script,error SAIDA CLARO DOWN
+Jan/08/2025 18:11:17 script,warning SAIDA CLARO UP
+Jan/08/2025 18:11:40 script,error SAIDA CLARO DOWN
+Jan/08/2025 18:11:47 script,warning SAIDA CLARO UP
+Jan/08/2025 18:12:10 script,error SAIDA CLARO DOWN
+Jan/08/2025 18:12:17 script,warning SAIDA CLARO UP
+Jan/08/2025 18:14:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:19:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:24:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:29:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:34:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:39:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:44:30 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:49:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:54:30 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 18:59:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:04:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:09:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:12:11 script,error SAIDA CLARO DOWN
+Jan/08/2025 19:12:18 script,warning SAIDA CLARO UP
+Jan/08/2025 19:12:31 script,error SAIDA CLARO DOWN
+Jan/08/2025 19:12:38 script,warning SAIDA CLARO UP
+Jan/08/2025 19:13:01 script,error SAIDA CLARO DOWN
+Jan/08/2025 19:13:08 script,warning SAIDA CLARO UP
+Jan/08/2025 19:13:21 script,error SAIDA CLARO DOWN
+Jan/08/2025 19:13:28 script,warning SAIDA CLARO UP
+Jan/08/2025 19:13:41 script,error SAIDA CLARO DOWN
+Jan/08/2025 19:13:48 script,warning SAIDA CLARO UP
+Jan/08/2025 19:14:01 script,error SAIDA CLARO DOWN
+Jan/08/2025 19:14:08 script,warning SAIDA CLARO UP
+Jan/08/2025 19:14:21 script,error SAIDA CLARO DOWN
+Jan/08/2025 19:14:28 script,warning SAIDA CLARO UP
+Jan/08/2025 19:14:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:19:31 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:24:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:29:30 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:34:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:39:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:44:30 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:49:28 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:52:41 script,error SAIDA TIM DOWN
+Jan/08/2025 19:52:48 script,warning SAIDA TIM UP
+Jan/08/2025 19:54:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 19:59:30 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 20:04:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 20:09:29 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 20:14:21 script,error SAIDA CLARO DOWN
+Jan/08/2025 20:14:28 script,warning SAIDA CLARO UP
+Jan/08/2025 20:14:36 script,error executing script WinboxMobile-push-stats from scheduler failed, please check it manually
+Jan/08/2025 20:14:41 script,error SAIDA CLARO DOWN
+Jan/08/2025 20:14:48 script,warning SAIDA CLARO UP
+Jan/08/2025 20:15:21 script,error SAIDA CLARO DOWN
+Jan/08/2025 20:15:28 script,warning SAIDA CLARO UP
+Jan/08/2025 20:15:51 script,error SAIDA CLARO DOWN
+Jan/08/2025 20:15:58 script,warning SAIDA CLARO UP
+Jan/08/2025 20:16:21 script,error SAIDA CLARO DOWN
+Jan/08/2025 20:16:28 script,warning SAIDA CLARO UP
